@@ -1,5 +1,5 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (calculator-cpp.vcxproj).  Это может привести к ошибкам очистки и перестроения.
   main.cpp
-D:\SpaceWork\CPP\Calcalulator-Backup\calculator-cpp\calculator-cpp.h(34,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\SpaceWork\CPP\Calcalulator-Backup\calculator-cpp\calculator-cpp.h(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  calculator-cpp.vcxproj -> D:\SpaceWork\CPP\Calcalulator-Backup\x64\Debug\Calculator-Result.exe
+D:\SpaceWork\CPP\Calcalulator-Result\calculator-cpp\calculator-cpp.h(34,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SpaceWork\CPP\Calcalulator-Result\calculator-cpp\calculator-cpp.h(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  calculator-cpp.vcxproj -> D:\SpaceWork\CPP\Calcalulator-Result\x64\Debug\Calculator-Result.exe
