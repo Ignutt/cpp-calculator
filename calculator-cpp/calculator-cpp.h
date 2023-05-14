@@ -52,6 +52,8 @@ public:
 		int len = signs.size();
 		for (int i = 0; i < len; i++)
 		{
+			if (numbers.size() < 2) return -1;
+
 			double result = Calculate(signs[signs.size() - 1], numbers[numbers.size() - 1], numbers[numbers.size() - 2]);
 
 			signs.pop_back();
